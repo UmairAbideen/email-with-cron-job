@@ -68,5 +68,6 @@ protected function schedule(Schedule $schedule)
 ⚙️ Artisan Commands
 ```bash
 php artisan make:command SendEmailCommand
-php artisan send:email         # To test manually
-php artisan schedule:run       # To simulate cron run manually
+php artisan send:email         # To test manually once
+php artisan schedule:run       # To simulate cron run manually once
+php artisan schedule:work      # To run schedules every minute
