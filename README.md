@@ -1,4 +1,4 @@
-## 📬 Laravel 10 Cron Job Email Example
+## 📬 Email With Cron Job
 This Laravel 10 project shows how to send emails every minute using a cron job. No queues, no complex setup — just a clean scheduled command and a Blade email view.
 
 ## ⏰ Why Use a Cron Job?
